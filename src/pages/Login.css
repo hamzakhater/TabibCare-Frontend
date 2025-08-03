@@ -1,0 +1,10 @@
+.login-container {
+    height: 100vh;
+    background: linear-gradient(to right, #e0f7fa, #b2ebf2);
+    padding: 20px;
+}
+
+.login-box {
+    width: 100%;
+    max-width: 500px;
+}

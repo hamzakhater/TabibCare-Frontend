@@ -1,0 +1,12 @@
+{
+  "id": "string",
+  "name": "string",
+  "email": "string",
+  "password": "string",
+  "phone": "string",
+  "role": "admin | doctor | secretary | patient",
+  "gender": "male | female",
+  "birthdate": "YYYY-MM-DD",
+  "createdAt": "ISODate",
+  "updatedAt": "ISODate"
+}

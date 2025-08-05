@@ -1,0 +1,17 @@
+{
+  "id": "string",
+  "name": "string",
+  "specialty": "string",
+  "email": "string",
+  "phone": "string",
+  "profileImage": "url",
+  "bio": "string",
+  "availableDays": ["Sunday", "Monday", "Tuesday"],
+  "availableTimes": [
+    {
+      "day": "Monday",
+      "start": "09:00",
+      "end": "14:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "string",
+  "doctorId": "string",
+  "patientId": "string",
+  "medicines": [
+    {
+      "name": "string",
+      "dose": "string",
+      "instructions": "string"
+    }
+  ],
+  "notes": "string",
+  "date": "YYYY-MM-DD"
+}

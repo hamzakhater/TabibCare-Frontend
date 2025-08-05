@@ -1,0 +1,10 @@
+{
+  "id": "string",
+  "patientId": "string",
+  "doctorId": "string",
+  "date": "YYYY-MM-DD",
+  "time": "HH:mm",
+  "notes": "string",
+  "status": "pending | confirmed | canceled | completed",
+  "createdAt": "ISODate"
+}
